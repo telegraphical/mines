@@ -1,0 +1,7 @@
+1.0.0-BETA:
+  releaseDate: 07/02/2020 GMT
+  updates:
+    major:
+    - 'Fixed major bug'
+    standard:
+    - 'Added new placeholders for holograms'

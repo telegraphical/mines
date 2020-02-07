@@ -1,0 +1,10 @@
+'Name':
+  - '&bMine &f{mine}'
+  
+'Blocks':
+  - '&bBlocks Mined: &f{blocksMined}'
+  - '&bBlocks Left: &f{blocksLeft}'
+  
+'Percentages':
+  - '&bBlocks Mined: &f{percentageMined}'
+  - '&bBlocks Left: &f{percentageLeft}'

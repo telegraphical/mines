@@ -6,7 +6,6 @@
     - 'Fixed major bug'
     standard:
     - 'Added new placeholders for holograms'
-    - 'Presley came out'
 1:
   version: 1.0.0
   releaseDate: 09/02/2020

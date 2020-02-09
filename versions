@@ -1,5 +1,5 @@
 0:
-  version: 0.0.1-BETA
+  version: 1.0.0-BETA
   releaseDate: 07/02/2020
   updates:
     major:
@@ -8,7 +8,7 @@
     - 'Added new placeholders for holograms'
     
 1:
-  version: 0.0.1
+  version: 1.0.0
   releaseDate: 09/02/2020
   updates:
     major: []

@@ -1,4 +1,5 @@
-"1.0.0-BETA":
+0:
+  version: 0.0.1-BETA
   releaseDate: 07/02/2020
   updates:
     major:

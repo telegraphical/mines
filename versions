@@ -6,3 +6,11 @@
     - 'Fixed major bug'
     standard:
     - 'Added new placeholders for holograms'
+    
+1:
+  version: 0.0.1
+  releaseDate: 09/02/2020
+  updates:
+    major:
+    standard:
+    - 'Fixed messages'

@@ -1,5 +1,1 @@
-<?php
-
-  echo "cool!";
-
-?>
+<b>cool</b>

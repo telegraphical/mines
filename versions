@@ -12,5 +12,6 @@
   releaseDate: 09/02/2020
   updates:
     major:
+    - ''
     standard:
     - 'Fixed messages'

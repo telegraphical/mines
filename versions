@@ -6,10 +6,90 @@
     - 'Fixed major bug'
     standard:
     - 'Added new placeholders for holograms'
+
 1:
-  version: 1.0.0
-  releaseDate: 09/02/2020
+  version: 1.0.0-BETA
+  releaseDate: 07/02/2020
   updates:
-    major: []
+    major:
+    - 'Fixed major bug'
     standard:
-    - 'Fixed messages'
+    - 'Added new placeholders for holograms'
+    
+2:
+  version: 1.0.0-BETA
+  releaseDate: 07/02/2020
+  updates:
+    major:
+    - 'Fixed major bug'
+    standard:
+    - 'Added new placeholders for holograms'
+    
+3:
+  version: 1.0.0-BETA
+  releaseDate: 07/02/2020
+  updates:
+    major:
+    - 'Fixed major bug'
+    standard:
+    - 'Added new placeholders for holograms'
+    
+    
+4:
+  version: 1.0.0-BETA
+  releaseDate: 07/02/2020
+  updates:
+    major:
+    - 'Fixed major bug'
+    standard:
+    - 'Added new placeholders for holograms'
+    
+5:
+  version: 1.0.0-BETA
+  releaseDate: 07/02/2020
+  updates:
+    major:
+    - 'Fixed major bug'
+    standard:
+    - 'Added new placeholders for holograms'
+6:
+  version: 1.0.0-BETA
+  releaseDate: 07/02/2020
+  updates:
+    major:
+    - 'Fixed major bug'
+    standard:
+    - 'Added new placeholders for holograms'
+7:
+  version: 1.0.0-BETA
+  releaseDate: 07/02/2020
+  updates:
+    major:
+    - 'Fixed major bug'
+    standard:
+    - 'Added new placeholders for holograms'
+8:
+  version: 1.0.0-BETA
+  releaseDate: 07/02/2020
+  updates:
+    major:
+    - 'Fixed major bug'
+    standard:
+    - 'Added new placeholders for holograms'
+9:
+  version: 1.0.0-BETA
+  releaseDate: 07/02/2020
+  updates:
+    major:
+    - 'Fixed major bug'
+    standard:
+    - 'Added new placeholders for holograms'
+    
+10:
+  version: 1.0.0-BETA
+  releaseDate: 07/02/2020
+  updates:
+    major:
+    - 'Fixed major bug'
+    standard:
+    - 'Added new placeholders for holograms'

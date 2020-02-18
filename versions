@@ -6,16 +6,3 @@
     - 'Fixed major bug'
     standard:
     - 'Added new placeholders for holograms'
-1:
-  version: Test!
-  releaseDate: 18/02/2020
-  updates:
-    major:
-    - 'Hopefully this will work!'
-    
-2:
-  version: Test!
-  releaseDate: 18/02/2020
-  updates:
-    standard:
-    - 'Well I hope sp'

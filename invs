@@ -1,0 +1,21 @@
+'Menu':
+  0:
+    slot: 0
+    material: DIRT
+    amount: 1
+    durability: 0
+    displayname: '&cItem'
+    lore:
+      - 'This is cool'
+      - 'Lol'
+    action: '[open] 'Test'
+    
+'Test':
+  0:
+    slot: 1
+    material: DIAMOND_BLOCK
+    amount: 3
+    durability: 0
+    displayname: '&bDiamonds!'
+    lore:
+      - 'Im rich lol'

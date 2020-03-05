@@ -19,3 +19,4 @@
     displayname: '&bDiamonds!'
     lore:
       - 'Im rich lol'
+    action: '[close]'

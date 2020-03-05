@@ -8,7 +8,7 @@
     lore:
       - 'This is cool'
       - 'Lol'
-    action: '[open] 'Test'
+    action: '[open] Test'
     
 'Test':
   0:

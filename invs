@@ -1,4 +1,7 @@
 'Menu':
+  displayname: '&bMenu'
+  rows: 2
+  
   0:
     slot: 0
     material: DIRT
@@ -13,6 +16,9 @@
       - '[close]'
     
 'Test':
+  displayname: '&bMenu'
+  rows: 3
+  
   0:
     slot: 1
     material: DIAMOND_BLOCK

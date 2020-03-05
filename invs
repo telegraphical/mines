@@ -8,7 +8,9 @@
     lore:
       - 'This is cool'
       - 'Lol'
-    action: '[open] Test'
+    actions:
+      - '[open] Test'
+      - '[close]'
     
 'Test':
   0:
@@ -19,4 +21,5 @@
     displayname: '&bDiamonds!'
     lore:
       - 'Im rich lol'
-    action: '[close]'
+    actions:
+      - '[close]'

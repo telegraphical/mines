@@ -40,4 +40,4 @@
         lore:
           - '&cIm fucked!?!? :(('
         actions:
-          - '[message] &bThere is no mine set here!'
+          - '[command] tell wetdan &bThere is no mine set here!'

@@ -14,7 +14,6 @@
         - 'Lol'
       actions:
         - '[open] Test'
-        - '[close]'
     
 'Test':
   displayname: '&bMenu'

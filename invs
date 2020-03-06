@@ -10,11 +10,10 @@
       durability: 0
       displayname: '&cItem'
       lore:
-        - 'This is cool'
-        - 'Lol'
+        - '&eThis is cool'
+        - '&dLol'
       actions:
         - '[open] Test'
-        - '[message] &bHi!'
     
 'Test':
   displayname: '&bMenu'
@@ -26,8 +25,16 @@
       material: DIAMOND_BLOCK
       amount: 3
       durability: 0
-      displayname: '&bDiamonds!'
-      lore:
-        - 'Im rich lol'
-      actions:
-        - '[close]'
+      requirement: MINE
+      met_requirement:
+        displayname: '&bA mine!'
+        lore:
+          - '&aIm rich lol'
+        actions:
+          - '[close]'
+      failed_requirement:
+        displayname: '&bOh no! NO MINE?!?!'
+        lore:
+          - '&cIm fucked!?!? :(('
+        actions:
+          - '[message] &bThere is no mine set here!'

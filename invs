@@ -14,6 +14,7 @@
         - 'Lol'
       actions:
         - '[open] Test'
+        - '[message] &bHi!'
     
 'Test':
   displayname: '&bMenu'
